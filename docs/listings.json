@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/strategy.html",
+    "items": [
+      "/strategy/2024-04-12 Individual Assignment/index.html",
+      "/strategy/2024-03-08 Group Assignment/index.html"
+    ]
+  },
+  {
+    "listing": "/enterprise.html",
+    "items": [
+      "/enterprise/2024-04-19 Business Plan/index.html",
+      "/enterprise/2024-02-28 Marketing Strategy/index.html",
+      "/enterprise/2023-12-08 Feasibility Analysis & Value Proposition Design/index.html",
+      "/enterprise/2023-10-16 Concept Paper/index.html"
+    ]
+  },
+  {
+    "listing": "/sustainable.html",
+    "items": [
+      "/sustainable/2024-04-09 Individual Assignment/index.html",
+      "/sustainable/2024-03-01 Group Assignment/index.html"
+    ]
+  }
+]
